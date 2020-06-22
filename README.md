@@ -16,5 +16,5 @@ The purpose of this assignment is to create a portfolio site utlizing Bootstrap 
 ![image](https://user-images.githubusercontent.com/34286295/85272002-6db17e00-b430-11ea-8edc-3b227f7b14fd.png)
 
 # URL
-https://kangb3.github.io/Repsonsive-Portfolio/
-https://github.com/kangb3/Repsonsive-Portfolio
+- https://kangb3.github.io/Repsonsive-Portfolio/
+- https://github.com/kangb3/Repsonsive-Portfolio
